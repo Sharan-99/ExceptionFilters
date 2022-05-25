@@ -1,0 +1,6 @@
+2022-02-03 18:53:45,389 [10] INFO  App  
+ Log Process Started... 
+ 
+2022-02-03 18:53:56,412 [10] INFO  App  
+ Exception from Index Method at Home Controller 
+ 
